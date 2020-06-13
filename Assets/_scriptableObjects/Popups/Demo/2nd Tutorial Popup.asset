@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82940e42c09711541a736a81bca8a6c8, type: 3}
+  m_Name: 2nd Tutorial Popup
+  m_EditorClassIdentifier: 
+  Nodes:
+  - {fileID: 3169525935271243101}
+  popupSystem: {fileID: 11400000, guid: ead5f7b5e73a3324fb3b4bba42b8ed4c, type: 2}
+  title: Tutorial - Part 2
+  description: Welcome to test game part 2.
+  sprite: {fileID: 21300000, guid: ded4106b3fc7d2a40b175e434b1d4b69, type: 3}
+  popupType: 1
+--- !u!114 &3169525935271243101
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfea7004db623f147b7378264a34a475, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  questSystem: {fileID: 11400000, guid: 243c4ef85fb5bdd4d84e654cb503c2ed, type: 2}
+  questToStart: {fileID: 11400000, guid: 9c86c42d092968646bea399fedd56284, type: 2}

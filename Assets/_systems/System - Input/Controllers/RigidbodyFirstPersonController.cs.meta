@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b8871b19872348a45b620d15698115ac
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cam: {instanceID: 0}
+  - OnHorizontalInput: {fileID: 11400000, guid: 5b50029e04d63f34f8bc3b0c683d4a2a,
+      type: 2}
+  - OnVerticalInput: {fileID: 11400000, guid: 0c8af895125bacb4ea2b68d352c700ee, type: 2}
+  - OnJump: {fileID: 11400000, guid: 14f0a58efd37a924a9747922178821f8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

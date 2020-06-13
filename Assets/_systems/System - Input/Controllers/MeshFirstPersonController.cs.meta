@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 52f354b18f5853241b4729fcf9bc7933
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_JumpSound: {fileID: 8300000, guid: 7992bee2ada0c6242a33d2eafc1805ff, type: 3}
+  - m_LandSound: {fileID: 8300000, guid: 56aa8d5f224d4ac4aa7cac7df10a7f13, type: 3}
+  - OnVerticalInput: {fileID: 11400000, guid: 0c8af895125bacb4ea2b68d352c700ee, type: 2}
+  - OnHorizontalInput: {fileID: 11400000, guid: 5b50029e04d63f34f8bc3b0c683d4a2a,
+      type: 2}
+  - jumpInput: {fileID: 11400000, guid: 14f0a58efd37a924a9747922178821f8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
